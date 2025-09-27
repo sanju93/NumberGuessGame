@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     color: "white",
-    fontWeight: "bold",
+    fontFamily: "roboto-bold",
     textAlign: "center",
     borderWidth: 2,
     borderColor: "white",
